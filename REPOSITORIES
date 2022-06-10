@@ -1,0 +1,4 @@
+REPOSITORIES = 
+{
+    ["Persist"] = "https://github.com/nicelym/MSF_Persist.git",
+} -- end of REPOSITORIES
