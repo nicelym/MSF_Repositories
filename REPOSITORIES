@@ -1,5 +1,6 @@
 _REPOSITORIES = 
 {
     ["Persist"] = "https://github.com/nicelym/MSF_Persist.git",
+    ["Economy"] = "https://github.com/nicelym/MSF_Economy.git",
     ["Logistics"] = "https://github.com/nicelym/MSF_Logistics.git"
 } -- end of _REPOSITORIES
